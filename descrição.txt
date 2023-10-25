@@ -1,0 +1,10 @@
+DESCRIÇÃO
+Para este desafio foi solicitado que você realize uma consulta no banco de dados com o objetivo de trazer alguns dados para análises. Utilize seus conhecimentos adquiridos no módulo de banco de dados, da trilha .NET e implemente o desafio proposto pelo Expert.
+
+Git.NET C#
+GitHub
+Todo código-fonte desenvolvido durante o curso foi versionado no GitHub, no seguinte endereço:
+
+https://github.com/digitalinnovationone/trilha-net-banco-de-dados-desafio​
+
+Bons estudos 
